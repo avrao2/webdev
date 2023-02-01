@@ -1,0 +1,42 @@
+.custom-header {
+    background-image:url('background.jpeg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.custom-dark-glow {
+    color:white;
+    text-shadow:1px 1px 10px #000, 1px 1px 10px rgb(29, 29, 29);
+}
+
+body {text-align:center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;}
+
+h1, h2 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h3 {
+ margin-top: 3rem;
+ margin-bottom: 2rem;
+}
+
+.my-custom-color {background-color:#e991da;}
+
+.tab-content > .active {
+    display: block;
+    background-color: #fff;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+
+ .nav-link:hover {
+    color: #000;
+  }
+  
+  .nav-link { 
+      color:#fff;
+  }
+
+ 
